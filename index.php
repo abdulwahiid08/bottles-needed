@@ -19,7 +19,7 @@
          <div class="col-md-4">
             <form action="" method="post" class="mb-3">
                <div class="form-group">
-                  <label for="jmlAir">Targer Kapasitas (Liter)</label>
+                  <label for="jmlAir">Target Kapasitas (Liter)</label>
                   <input type="text" class="form-control" id="jmlAir" name="jmlAir" placeholder="masukkan target kapasitas">
                </div>
                <button type="submit" class="btn btn-primary" name="submit">Submit</button>
